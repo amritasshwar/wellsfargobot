@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/amritasshwar/wellsfargobot/issues"
   },
-  "homepage": "https://github.com/amritasshwar/wellsfargobot#readme"
+  "homepage": "https://github.com/amritasshwar/wellsfargobot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
 }
