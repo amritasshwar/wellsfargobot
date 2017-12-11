@@ -1,0 +1,19 @@
+{
+  "name": "wellsfargobot",
+  "version": "1.0.0",
+  "description": "test bot for wells fargo customer support",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amritasshwar/wellsfargobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amritasshwar/wellsfargobot/issues"
+  },
+  "homepage": "https://github.com/amritasshwar/wellsfargobot#readme"
+}
